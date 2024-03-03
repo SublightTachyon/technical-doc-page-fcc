@@ -4,4 +4,9 @@ body {background-color:darkslateblue;
     flex-direction:row;
     flex-wrap: nowrap;
   }
-  
+  header{
+    font-size:30px;
+  }
+  #navbar {
+
+  }
